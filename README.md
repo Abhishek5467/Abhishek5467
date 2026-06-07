@@ -1,20 +1,18 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Abhishek%20Singh&fontAlign=50&fontAlignY=40&fontSize=50&desc=AI%20Researcher%20|%20Software%20Engineer%20|%20Photonics%20Researcher&descAlign=50&descAlignY=60" alt="Header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Abhishek%20Singh&fontAlign=50&fontAlignY=40&fontSize=50&desc=AI%20Researcher%20|%20Software%20Engineer%20|%20Photonics%20Researcher&descAlign=50&descAlignY=60" alt="Header"/>
+  ### B.Tech Electrical Engineering @ IIT Patna
 
-### B.Tech Electrical Engineering @ IIT Patna
+  🏆 **GATE (ECE) AIR 1046 | Score 662 • JEE Advanced AIR 5701 • JEE Main AIR 4311**
 
-🏆 **GATE (ECE) AIR 1046 | Score 662 • JEE Advanced AIR 5701 • JEE Main AIR 4311**
+  🔬 Video Anomaly Detection • ⚡ Silicon Photonics • 💻 Software Engineering
 
-🔬 Video Anomaly Detection • ⚡ Silicon Photonics • 💻 Software Engineering
-
-<img src="https://komarev.com/ghpvc/?username=Abhishek5467&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Abhishek5467&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech Electrical Engineering Student at **IIT Patna (Batch of 2027)**
 - 🔬 Researching **Video Anomaly Detection** under **Prof. Mahesh Kumar Kolekar**
@@ -24,27 +22,21 @@
 
 ---
 
-# 🔬 Research Interests
+## 🔬 Research Interests
 
 - Video Anomaly Detection
-- Computer Vision
-- Deep Learning
-- AutoEncoders
-- Transformers
-- Silicon Photonics
-- Photonic Integrated Circuits
-- Microring Resonators
-- Optical Computing
+- Computer Vision & Deep Learning
+- AutoEncoders & Transformers
+- Silicon Photonics & Photonic Integrated Circuits
+- Microring Resonators & Optical Computing
 - Embedded AI
-- ML Infrastructure
-- Cloud Computing
+- ML Infrastructure & Cloud Computing
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
-## Software Head — Inditronix AI Labs
-
+### Software Head — Inditronix AI Labs
 *Healthcare Startup Incubated at IIT Patna & AIIMS Patna*
 
 - Led software architecture and technical development initiatives.
@@ -56,16 +48,14 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚨 AI Surveillance System
-
+### 🚨 AI Surveillance System
 AutoEncoder-based Video Anomaly Detection Framework using Hybrid Patch Feature Scoring.
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/Abhishek5467/ai-surveillance-system)
 
-### Highlights
-
+**Highlights:**
 - PyTorch-based implementation
 - End-to-end training, evaluation, and inference pipeline
 - Hybrid Patch Feature Scoring framework
@@ -76,12 +66,10 @@ AutoEncoder-based Video Anomaly Detection Framework using Hybrid Patch Feature S
 
 ---
 
-## 📹 USAS Ingestor Engine
-
+### 📹 USAS Ingestor Engine
 Scalable multi-camera surveillance ingestion framework.
 
-### Highlights
-
+**Highlights:**
 - Multi-camera frame collection
 - CCTV & DOT camera support
 - Frame synchronization
@@ -90,14 +78,12 @@ Scalable multi-camera surveillance ingestion framework.
 
 ---
 
-## 🎮 Custom 3D Rendering Engine
-
+### 🎮 Custom 3D Rendering Engine
 Real-time 3D rendering engine with gesture-based interaction.
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/Abhishek5467/Custom-3d-rendering-engine)
 
-### Highlights
-
+**Highlights:**
 - Real-time rendering
 - Gesture control
 - Spline editor
@@ -105,23 +91,19 @@ Real-time 3D rendering engine with gesture-based interaction.
 
 ---
 
-## ⚡ Silicon Photonics Research
-
+### ⚡ Silicon Photonics Research
 Microring Resonator simulation and analysis using MEEP FDTD.
 
-### Research Topics
-
-- Lateral Coupling
-- Vertical Coupling
-- Series Cascading
-- Parallel Cascading
+**Research Topics:**
+- Lateral & Vertical Coupling
+- Series & Parallel Cascading
 - Optical Resonance Analysis
 - Coupling Coefficient Analysis
 - Resonator Design Optimization
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 - 🥇 GATE (ECE) AIR 1046 (Score 662)
 - 🥈 JEE Advanced AIR 5701
@@ -133,7 +115,7 @@ Microring Resonator simulation and analysis using MEEP FDTD.
 
 ---
 
-# 💻 Competitive Programming
+## 💻 Competitive Programming
 
 | Platform | Statistics |
 |-----------|------------|
@@ -142,44 +124,38 @@ Microring Resonator simulation and analysis using MEEP FDTD.
 | LeetCode | 121+ Problems Solved |
 | GeeksForGeeks | 183+ Problems Solved |
 
-### Ratings
-
+**Ratings:**
 - Codeforces: **Pupil** (Max Rating 1241)
 - CodeChef: **3★** (Max Rating 1643)
 - Total DSA Problems Solved: **1000+**
 
 ---
 
-# 📊 Kaggle
+## 📊 Kaggle
 
 Participated in machine learning competitions involving:
-
 - Healthcare Prediction
 - Financial Risk Modeling
 - Environmental Data Analysis
 
-🔗 **Profile:**  
-https://www.kaggle.com/shivaabhishek108
+🔗 **Profile:** [shivaabhishek108](https://www.kaggle.com/shivaabhishek108)
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 ### Programming Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ### Machine Learning & AI
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Cloud, Simulation & Tools
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -188,59 +164,41 @@ https://www.kaggle.com/shivaabhishek108
 
 ---
 
+## 🏅 GitHub Trophies
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek5467&show_icons=true&theme=algolia&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek5467&layout=compact&theme=algolia&cache_seconds=1800"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek5467&theme=tokyonight&no-frame=true&row=1" alt="Trophies" />
 </p>
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhishek5467&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek5467&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhishek5467&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek5467&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek5467&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek5467&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/abhishek-singh-3a54a5294/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/shivaabhishek108">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/journey_to_grandmaster">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/abhishek_5701">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Abhishek5467">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/iitianabhishek5701/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/abhishek-singh-3a54a5294/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/shivaabhishek108"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://codeforces.com/profile/journey_to_grandmaster"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.codechef.com/users/abhishek_5701"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://github.com/Abhishek5467"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/iitianabhishek5701/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🔬 Video Anomaly Detection Research
 - ⚡ Silicon Photonics & Microring Resonators
