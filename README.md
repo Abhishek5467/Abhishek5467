@@ -188,10 +188,9 @@ https://www.kaggle.com/shivaabhishek108
 
 ---
 
-# 🏅 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek5467&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek5467&show_icons=true&theme=algolia&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek5467&layout=compact&theme=algolia&cache_seconds=1800"/>
 </p>
 
 ---
