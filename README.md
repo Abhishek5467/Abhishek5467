@@ -130,20 +130,22 @@ Machine Learning enthusiast with experience participating in predictive modeling
 
 ## 🏅 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek5467&theme=tokyonight&no-frame=true&row=1" alt="Trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek5467&theme=tokyonight&no-frame=true&row=1" alt="Trophies" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek5467&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek5467&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek5467&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhishek5467&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek5467&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek5467&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
