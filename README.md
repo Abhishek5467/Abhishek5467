@@ -1,186 +1,242 @@
 ```markdown
-# Hi there, I'm Abhishek Singh 👋
+<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 
-🎓 B.Tech Electrical Engineering student at **IIT Patna** (Batch of 2027)
+<h3 align="center">
+B.Tech Electrical Engineering @ IIT Patna | AI Researcher | Software Engineer | Photonics Researcher
+</h3>
 
-📊 GATE (ECE) AIR 1046 | JEE Advanced AIR 5701 | JEE Main AIR 4311
-
-🔬 Researching **Video Anomaly Detection** and **Silicon Photonics**
-
-💻 Software Head at **Inditronix AI Labs** (Incubated at IIT Patna & AIIMS Patna)
-
----
-
-## About Me
-
-I am passionate about solving challenging engineering problems at the intersection of Machine Learning, Computer Vision, Software Systems, Embedded Systems, and Photonics.
-
-My current work spans:
-
-- Video Anomaly Detection for Intelligent Surveillance
-- Deep Learning and Computer Vision
-- Silicon Photonics and Microring Resonators
-- Cloud Deployment and ML Infrastructure
-- Embedded Systems and IoT
-- Competitive Programming and Algorithms
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Computer+Vision+Researcher;Video+Anomaly+Detection;Silicon+Photonics+Researcher;Competitive+Programmer;Building+AI+for+Real+World+Applications" />
+</p>
 
 ---
 
-## Technical Interests
+## 🚀 About Me
 
-- Machine Learning & Deep Learning
-- Computer Vision
+🎓 B.Tech Electrical Engineering Student at **IIT Patna (Batch of 2027)**
+
+🏆 **GATE (ECE) AIR 1046** | **JEE Advanced AIR 5701** | **JEE Main AIR 4311**
+
+🔬 Researching **Video Anomaly Detection** under **Prof. Mahesh Kumar Kolekar**
+
+⚡ Researching **Silicon Photonics & Microring Resonators** under **Prof. Sumanta Gupta**
+
+💻 Software Head at **Inditronix AI Labs** *(Incubated at IIT Patna & AIIMS Patna)*
+
+📊 Kaggle Competitor | 💡 Builder | 🏗️ Engineer
+
+---
+
+## 🔬 Research Interests
+
 - Video Anomaly Detection
+- Computer Vision
+- Deep Learning
+- AutoEncoders
+- Transformers
 - Silicon Photonics
-- Photonic Integrated Circuits
+- Microring Resonators
 - Optical Computing
-- Embedded Systems (ESP32)
-- Cloud Computing
-- AWS & Hugging Face Deployment
-- Algorithms & Data Structures
-- Competitive Programming
+- Embedded AI
+- ML Infrastructure
+- Cloud Deployment
 
 ---
 
-## Research Experience
+## 💼 Professional Experience
 
-### 🔬 Video Surveillance Research
-**Under Prof. Mahesh Kumar Kolekar, IIT Patna**
+### Software Head — Inditronix AI Labs
 
-- Developed AutoEncoder-based Video Anomaly Detection systems.
-- Designed Hybrid Patch Feature Scoring techniques for anomaly localization.
-- Worked on benchmark datasets:
-  - UCSD Pedestrian Dataset
-  - CUHK Avenue Dataset
-  - ShanghaiTech Dataset
-- Built complete training, inference, and evaluation pipelines using PyTorch.
-
----
-
-### ⚡ Silicon Photonics Research
-**Under Prof. Sumanta Gupta, IIT Patna**
-
-- Investigating Silicon Microring Resonators in lateral and vertical coupling configurations.
-- Studying series and parallel cascaded resonator architectures.
-- Performing electromagnetic simulations using MEEP (FDTD Solver).
-- Analyzing resonance characteristics, coupling coefficients, quality factor, and transmission response.
-- Developing open-source educational documentation on silicon photonics and microring resonator design.
-
----
-
-## Professional Experience
-
-### 💼 Software Head — Inditronix AI Labs
-*Healthcare Startup Incubated at IIT Patna & AIIMS Patna*
-
-- Leading software architecture and technical development initiatives.
+- Leading software architecture and technical development.
 - Developed and deployed the official company website on AWS EC2.
-- Contributed to backend systems for healthcare AI applications.
-- Deployed ML applications on Hugging Face Spaces.
+- Deployed Machine Learning applications on Hugging Face Spaces.
 - Implemented backend inference workflows and Signal-to-Noise Ratio (SNR) computation pipelines.
-- Worked on ESP32-based IoT and healthcare monitoring solutions.
+- Built ESP32-based IoT solutions for healthcare applications.
+- Worked with cloud infrastructure, deployment pipelines, and backend systems.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🚨 AI Surveillance System
-AutoEncoder-based Video Anomaly Detection Framework using Hybrid Patch Feature Scoring.
+
+AutoEncoder-based Video Anomaly Detection framework using Hybrid Patch Feature Scoring.
 
 🔗 Repository:
 https://github.com/Abhishek5467/ai-surveillance-system
 
----
-
-### 🎮 Custom 3D Rendering Engine
-Real-time 3D rendering engine featuring gesture control and spline editing capabilities.
-
-🔗 Repository:
-https://github.com/Abhishek5467/Custom-3d-rendering-engine
+**Highlights**
+- UCSD Pedestrian Dataset
+- CUHK Avenue Dataset
+- ShanghaiTech Dataset
+- PyTorch-based implementation
+- End-to-end training and inference pipeline
 
 ---
 
 ### 📹 USAS Ingestor Engine
-Scalable multi-camera frame ingestion system designed for intelligent surveillance applications.
 
-- Multi-camera stream handling
+Scalable multi-camera surveillance ingestion framework.
+
+**Highlights**
+- Multi-camera frame collection
+- CCTV & DOT camera support
 - Frame synchronization
-- Data preprocessing pipelines
+- Data preprocessing pipeline
 - Surveillance analytics support
 
 ---
 
-## Competitive Programming
+### 🎮 Custom 3D Rendering Engine
 
-- CodeChef 3★ Programmer (Max Rating: 1643)
-- Codeforces Pupil (Max Rating: 1241)
-- 1000+ DSA Problems Solved
-- Active Competitive Programmer
+Real-time 3D rendering engine with gesture-based interaction.
 
-### Platform Statistics
+🔗 Repository:
+https://github.com/Abhishek5467/Custom-3d-rendering-engine
 
-| Platform | Problems Solved |
-|----------|----------------|
-| Codeforces | 303+ |
-| CodeChef | 174+ |
-| LeetCode | 121+ |
-| GeeksforGeeks | 183+ |
+**Highlights**
+- Real-time rendering
+- Gesture control
+- Spline editor
+- Creative coding framework
 
 ---
 
-## Machine Learning Journey
+### ⚡ Silicon Photonics Research
 
-- Introduction to AI & ML Coursework
-- Deep Learning (100 Days Learning Journey)
-- Transformers
-- Computer Vision
-- AutoEncoders
-- Model Deployment
-- Real-world Surveillance Systems
+Microring Resonator simulation and analysis using MEEP FDTD.
+
+**Research Topics**
+- Lateral Coupling
+- Vertical Coupling
+- Series Cascading
+- Parallel Cascading
+- Optical Resonance Analysis
+- Coupling Coefficient Analysis
 
 ---
 
-## Connect With Me
+## 🏆 Achievements
 
-💼 LinkedIn
+🥇 GATE (ECE) AIR 1046 (Score: 662)
 
-https://www.linkedin.com/in/abhishek-singh-3a54a5294/
+🥈 JEE Advanced AIR 5701
 
-🐙 GitHub
+🥉 JEE Main AIR 4311
 
-https://github.com/Abhishek5467
+💻 Solved 1000+ DSA Problems
 
-📊 Kaggle
+⭐ CodeChef 3★ Programmer (Max Rating: 1643)
 
+⭐ Codeforces Pupil (Max Rating: 1241)
+
+📚 Active Researcher in AI and Silicon Photonics
+
+---
+
+## 💻 Competitive Programming
+
+| Platform | Statistics |
+|-----------|------------|
+| Codeforces | 303+ Problems Solved |
+| CodeChef | 174+ Problems Solved |
+| LeetCode | 121+ Problems Solved |
+| GeeksForGeeks | 183+ Problems Solved |
+
+---
+
+## 📊 Kaggle
+
+Participated in Machine Learning competitions involving:
+
+- Healthcare Prediction
+- Financial Risk Modeling
+- Environmental Data Analysis
+
+Profile:
 https://www.kaggle.com/shivaabhishek108
 
-📧 Email
+---
 
-abhishek_2301ec35@iitp.ac.in
+## ⚙️ Tech Stack
 
-📷 Instagram
+### Programming Languages
 
-https://www.instagram.com/iitianabhishek5701/
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+### Machine Learning & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
 
 ---
 
-## Current Focus
+## 📈 GitHub Stats
 
-🔬 Video Anomaly Detection
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek5467&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek5467&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek5467&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhishek-singh-3a54a5294/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/shivaabhishek108">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Abhishek5467">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/iitianabhishek5701/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+🔬 Video Anomaly Detection Research
 
 ⚡ Silicon Photonics & Microring Resonators
 
-🌐 Cloud Deployment of AI Systems
+🌐 AI Deployment & Cloud Infrastructure
 
-🏗️ ML Infrastructure & Backend Systems
-
-📈 Deep Learning Research
+📈 Deep Learning & Computer Vision
 
 🏆 Competitive Programming
 
 ---
 
-### Fun Fact
-
-I enjoy working across domains—from AI and Computer Vision to Photonics, Cloud Infrastructure, Embedded Systems, and Graphics Programming—because many of the most interesting engineering problems lie at the intersection of multiple fields.
+> "Engineering becomes exciting when ideas from AI, Photonics, Systems, and Mathematics come together to solve real-world problems."
 ```
